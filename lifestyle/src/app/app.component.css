@@ -1,0 +1,19 @@
+h1.toph1 {
+    text-align: center;
+    text-decoration: underline overline;
+    color: green;
+}
+
+ol.lifecyclePoint{
+    font-size: 22px;
+    margin-left: 50px;
+}
+div.round {
+    border: 2px solid red;
+    border-radius: 12px;
+    margin-left: 315px;
+    margin-right: 17px;
+    margin-top: -252px;
+    height:550px;
+
+}
